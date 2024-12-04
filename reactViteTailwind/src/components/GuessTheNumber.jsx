@@ -28,8 +28,10 @@ function GuessTheNumber() {
 
   return (
     <div className="min-h-screen bg-gray-900 flex flex-col items-center justify-center text-white">
-      <Card name="Harsh" />
-      <Card name="Bhaskar" />
+      <div className="flex flex-col gap-4 max-w-[60vw]">
+        <Card name="Harsh" />
+        <Card name="Bhaskar" />
+      </div>
       <h1 className="text-4xl font-bold mb-6">Guess the Number</h1>
       <div className="flex flex-col items-center gap-4">
         <input
