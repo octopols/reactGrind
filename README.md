@@ -28,4 +28,12 @@ This basic project focuses on React DOM manipulation. It allowed me to understan
 
 ---
 
+## 4. Password Generator
+
+In this project, I learned about `useEffect`, `useCallback`, and `useRef` to create a dynamic password generator. This project helped me understand how to manage side effects, optimize callback functions, and use references in React effectively.
+
+![Password Generator Screenshot](assets/passwordGenerator.png)
+
+---
+
 Each project builds on the previous ones to deepen my understanding of React concepts. Feel free to explore the code and run the projects yourself to see them in action!
